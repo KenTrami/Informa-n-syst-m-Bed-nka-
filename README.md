@@ -6,3 +6,5 @@
 * Usnadnit komunikaci mezi skladem a dopravcem
 ## Kdo tento systém využije?
 * Skladníci
+* Vedoucí skladu
+* Účetní
