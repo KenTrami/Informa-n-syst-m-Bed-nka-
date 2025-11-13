@@ -22,7 +22,7 @@
 * Zobrazovat aktuální stav zásob 
 * Vyhledávat zboží podle názvu, kódu nebo dodavatele 
 * Tisknout skladové karty a štítky
-### Nákupčí
+### Obchodník
 * Prohlížet přehled dostupného zboží 
 * Zjišťovat, které produkty jsou momentálně skladem 
 * Podávat požadavky na doplnění zásob
