@@ -3,4 +3,6 @@
 
 ## Cíl systému:
 * Zefektivnit práci na skladě
-* 
+* Usnadnit komunikaci mezi skladem a dopravcem
+## Kdo tento systém využije?
+* Skladníci
