@@ -26,7 +26,7 @@
 * Prohlížet přehled dostupného zboží 
 * Zjišťovat, které produkty jsou momentálně skladem 
 * Podávat požadavky na doplnění zásob
-## Zpravovaná data
+## Spravovaná data
 * Zboží: název, kód, kategorie, popis, cena, aktuální množství, minimální zásoba 
 * Pohyby zboží: datum, typ (příjem/výdej), množství, zodpovědná osoba 
 * Dodavatelé: název firmy, kontaktní osoba, telefon, e-mail, IČ 
