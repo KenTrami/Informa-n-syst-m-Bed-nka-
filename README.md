@@ -14,7 +14,6 @@
 * Přidávat, upravovat a mazat položky zboží
 * Spravovat seznam dodavatelů
 * Vytvářet přehledy o příjmu a výdeji zboží
-* Nastavovat minimální zásoby a sledovat jejich překročení
 * Přidělovat přístupová práva skladníkům
 ### Skladník
 * Zaznamenávat příjem nového zboží 
