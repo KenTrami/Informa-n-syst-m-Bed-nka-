@@ -1,6 +1,6 @@
 # Informační systém Bedýnka
 #### Informační systém “Bedýnka” je pomůckou pro menší sklady. Umožňuje evidovat zboží, sledovat jeho příjem, výdej, množství, případně umístění. 
-
+#### Odkaz: https://www.figma.com/design/ySHzweeTDTcZotZyk75j4q/Informa%C4%8Dn%C3%AD-syst%C3%A9m-Bed%C3%BDnka?node-id=0-1&p=f&t=AqABfWrHgLKGaRMS-0
 ## Cíl systému:
 * Zefektivnit provoz skladu
 * umožnění přehledu o aktuálním stavu zásob, historii pohybů a spolupráci mezi zaměstnanci skladu a obchodníky
